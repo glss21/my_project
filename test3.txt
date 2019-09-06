@@ -1,6 +1,4 @@
 Hello test3!
-<<<<<<< HEAD
 Guilin Li
-=======
 Patrik
->>>>>>> f0a0e31910b3d00cbc66d6411f824c809d2c2b53
+
